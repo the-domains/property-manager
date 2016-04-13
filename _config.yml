@@ -1,0 +1,14 @@
+layout_spectrum: 0.5161979
+typography_spectrum: 0.1625951
+color:
+  saturation: 0.8119908
+  lightness: 0.6175696
+  brandStrength: 0.1315179
+  rhythmicContrast: 0.7007948
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Property Manager
