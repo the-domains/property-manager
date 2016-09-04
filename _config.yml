@@ -14,6 +14,10 @@ layout_spectrum: 0.5161979
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a3a5ff5-bcb6-40df-a22d-72504d329588.png
 name: Property Manager
+navigation:
+  - name: Property Manager
+    url: 'https://propertymanager.strawberry-estate.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bde2aa94-7bb1-432e-a0a1-9e7053aeb5e4.ico
 title: Property Manager
